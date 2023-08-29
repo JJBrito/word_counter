@@ -11,7 +11,9 @@ This project was developed using Python and the PySimpleGUI library for the grap
 
 # Installation
 - Make sure you have Python installed on your system.
-- Install the necessary dependencies using the following command:
+- At the prompt of your preference, install the necessary dependencies using the following commands:
+ . import string
+ . import PySimpleGUI as sg
 
 # Usage
 - Run the word_counter.py script using the following command:
